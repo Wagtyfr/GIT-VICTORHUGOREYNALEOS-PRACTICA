@@ -1,1 +1,0 @@
-Esta es mi práctica para aprender a guardar cambios con Git y sincronizarlos con GitHub.
